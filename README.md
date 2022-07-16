@@ -1,3 +1,7 @@
+# StarWars planets and people app.
+
+i make this app just for practicing react-query alitl bit , [play demo!](https://62d22243a9a7382ad73358c4--rad-valkyrie-9a9b82.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
