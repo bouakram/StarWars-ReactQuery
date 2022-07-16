@@ -1,6 +1,8 @@
 # StarWars planets and people app.
 
-i make this app just for practicing react-query alitl bit , [play demo!](https://62d22243a9a7382ad73358c4--rad-valkyrie-9a9b82.netlify.app/)
+i made this app just for practicing react-query , [play demo!](https://62d22243a9a7382ad73358c4--rad-valkyrie-9a9b82.netlify.app/)
+
+i used [tailwindcss](https://tailwindcss.com/) css for styling the ui.
 
 # Getting Started with Create React App
 
